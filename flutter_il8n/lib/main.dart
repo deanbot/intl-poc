@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_il8n/localizations/app_localization.dart';
-import 'package:flutter_il8n/localizations/app_localization_delegate.dart';
+import 'package:flutter_il8n/localization/localization.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 
 import 'home_page.dart';
@@ -8,9 +7,6 @@ import 'home_page.dart';
 void main() {
   runApp(const MyApp());
 }
-
-
-
 
 class MyApp extends StatefulWidget {
   const MyApp({Key? key}) : super(key: key);

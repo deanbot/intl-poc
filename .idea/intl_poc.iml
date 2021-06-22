@@ -10,15 +10,15 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/.idea/gen" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/gen" isTestSource="false" generated="true" />
-      <excludeFolder url="file://$MODULE_DIR$/flutter_il8n/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/flutter_il8n/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/flutter_il8n/build" />
-      <excludeFolder url="file://$MODULE_DIR$/intl_il8n/build" />
-      <excludeFolder url="file://$MODULE_DIR$/intl_il8n/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/intl_il8n/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/gen_il8n/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/gen_il8n/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/gen_il8n/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_i18n/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_i18n/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_i18n/build" />
+      <excludeFolder url="file://$MODULE_DIR$/intl_i18n/build" />
+      <excludeFolder url="file://$MODULE_DIR$/intl_i18n/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/intl_i18n/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/gen_i18n/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/gen_i18n/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/gen_i18n/build" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 29 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

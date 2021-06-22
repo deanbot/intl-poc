@@ -1,0 +1,21 @@
+{
+  "@@last_modified": "2021-06-22T13:41:42.914408",
+  "helloWorld": "Ciao mondo!",
+  "@helloWorld": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "hello": "Ciao!",
+  "@hello": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "changeLocale": "Cambia locale:",
+  "@changeLocale": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  }
+}

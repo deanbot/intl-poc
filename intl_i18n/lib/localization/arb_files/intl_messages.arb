@@ -1,0 +1,21 @@
+{
+  "@@last_modified": "2021-06-22T13:41:42.914408",
+  "helloWorld": "Hello world!",
+  "@helloWorld": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "hello": "Hello!",
+  "@hello": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "changeLocale": "Change Locale:",
+  "@changeLocale": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  }
+}

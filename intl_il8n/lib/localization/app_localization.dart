@@ -18,5 +18,4 @@ class AppLocalization {
 
     return AppLocalization(locale);
   }
-
 }

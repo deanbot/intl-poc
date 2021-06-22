@@ -1,0 +1,14 @@
+{
+  "hello": "Hello!",
+  "@hello": {
+    "description": "App title"
+  },
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "changeLocale": "Change Locale:",
+  "@changeLocale": {
+    "description": "Instruction for changing current locale"
+  }
+}

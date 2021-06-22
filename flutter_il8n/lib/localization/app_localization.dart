@@ -17,12 +17,12 @@ class AppLocalization {
     "it": {
       "hello": "Ciao!",
       "hello_world": "Ciao mondo",
-      "change_locale": "Cambia locale"
+      "change_locale": "Cambia locale:"
     },
     "es": {
       "hello": "Hola!",
       "hello_world": "Hola Mundo",
-      "change_locale": "Cambiar locale"
+      "change_locale": "Cambiar locale:"
     }
   };
 }

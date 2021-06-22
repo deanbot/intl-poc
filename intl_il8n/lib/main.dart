@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
-
+import 'localization/localization.dart';
 import 'home_page.dart';
 
 void main() {
@@ -31,8 +30,8 @@ class _MyAppState extends State<MyApp> {
       locale: _locale,
       home: HomePage(handler: setLocale),
       localizationsDelegates: const [
-        // AppLocalizationDelegate(),
-        AppLocalizations.delegate,
+        AppLocalizationDelegate(),
+
         // Global localization delegates provide localized
         // strings for material and cupertino libs, and reading direction
         GlobalMaterialLocalizations.delegate,

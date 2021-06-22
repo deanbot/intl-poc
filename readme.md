@@ -14,6 +14,6 @@ Arb-first approach, see `arb` files in `lib/l10n`. A synthetic package is genera
 
 ## Intl localization
 
-https://pub.dev/packages/intl) and [Intl_generator](https://pub.dev/packages/intl_generator).
+See `intl_i18n` project, [Intl](https://pub.dev/packages/intl) and [Intl_generator](https://pub.dev/packages/intl_generator).
 
 Message-first approach relying on command line utilities (see `tools` directory) for arb template generation and arb to dart parsing. 
